@@ -1,4 +1,7 @@
 # complementario-electronica-uchile
+
+este es un repositorio de prueba para demostrar como se editan los repos en github
+
 mi bitácora del curso
 
 mi primera edición en README.md principal
